@@ -1,0 +1,18 @@
+# Build output
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sdf
+*.opendb
+*.db
+.vs/
+ipch/
+
+# Compiled
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
